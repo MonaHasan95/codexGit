@@ -1,3 +1,3 @@
 <script>
-    let b = document.queryselector('body');
+    let body = document.queryselector('body');
 </script>
